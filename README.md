@@ -6,4 +6,4 @@
 
 # Приложение / App
 <!--Gif-->
-![Alt Text]()
+![Alt Text](https://imgur.com/56wHS36.png)
